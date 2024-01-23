@@ -9,12 +9,12 @@
 
 <h2>pythonDump</h2>
 
-A dump archive of most of my random ass python programs.<br><br>
+A dump archive of my random ass python programs.<br><br>
 <a href="https://pythondump--imshivlok.repl.co" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 <h2>Active Hosts</h2>
-1. GitHub Pages: <a href="https://imshivlok.github.io/pythondump/">https://imshivlok.github.io/pythondump/</a><br>
-2. Replit: <a href="https://pythondump--imshivlok.repl.co">https://pythondump--imshivlok.repl.co</a>
+1. GitHub Pages: <br><a href="https://imshivlok.github.io/pythondump/">https://imshivlok.github.io/pythondump/</a><br>
+2. Replit: <br><a href="https://pythondump--imshivlok.repl.co">https://pythondump--imshivlok.repl.co</a>
 
 <h2>Contact</h2>
 If you want to contact me, you can reach me at <a href="https://www.instagram.com/imshivlok">Instagram</a>.
