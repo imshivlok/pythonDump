@@ -13,7 +13,7 @@ A dump archive of my random ass python programs.<br><br>
 <a href="https://pythondump--imshivlok.repl.co" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 <h2>Active Hosts</h2>
-1. GitHub Pages: <br><a href="https://imshivlok.github.io/pythonDump/">https://imshivlok.github.io/pythondump/</a><br>
+1. GitHub Pages: <br><a href="https://imshivlok.github.io/pythonDump/">https://imshivlok.github.io/pythonDump/</a><br>
 2. Replit: <br><a href="https://pythondump--imshivlok.repl.co">https://pythondump--imshivlok.repl.co</a>
 
 <h2>Contact</h2>
