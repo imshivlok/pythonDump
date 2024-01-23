@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/pythondump?style=social)
   ![Progress](https://img.shields.io/badge/archive-185E26)<br>
   
-  <img src="/images/logo.png" alt="logo" title="logo" width="50%">
+  <img src="/images/logo.png" alt="logo" title="logo" width="30%">
 
 <h2>pythonDump</h2>
 
